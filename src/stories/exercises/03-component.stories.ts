@@ -23,6 +23,11 @@ const twoModules = [
     noLectures: 2,
     noPracticals: 3,
   },
+  {
+    name: "User Design",
+    noLectures: 3,
+    noPracticals: 5,
+  },
 ];
 // More on writing stories with args: https://storybook.js.org/docs/writing-stories/args
 export const Basic: Story = {
